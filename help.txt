@@ -1,0 +1,10 @@
+sensor
+get alarms
+state
+get profiles
+set profile,<profile name>
+interval,<minutes>
+new logfile
+alarms,<receive/mute>
+help
+restart
